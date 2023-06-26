@@ -6,7 +6,7 @@ Let’s create a website to showcase my unique skills, apart from sitting in fro
 
 I need some ideas now as I’ve set the project's base. After countless hours of research, I came across the website by Atmos. Short, highly defined, and a perfect fit for my requirement. When I started creating components and architecture, I got a broader idea of what it would look like. The next target was to find airplane and cloud models for my project. The real problem started hitting. I could not get free Webgl models as per my requirement, and I had no time to learn and create it through Blender (and my laptop sucks too).
 
-Then I came across an absolute goldmine Polypizza. Stuffed my items. Started with development. Got stuck for many hours on smoothening the transition and slowing the speed at specific points. You can check what I made here [Live](https://unpopular-skills.netlify.app/)
+Then I came across an absolute goldmine [Polypizza](https://poly.pizza/) (Every low poly model you could ever need). Stuffed my items. Started with development. Got stuck for many hours on smoothening the transition and slowing the speed at specific points. You can check what I made here [Live](https://unpopular-skills.netlify.app/)
 
 ## Features
 
